@@ -2,7 +2,7 @@
 
 Turn your team's pull request history into an interactive scatter plot — instantly spot patterns, bottlenecks, and outliers across GitHub, Azure DevOps, and Wrike.
 
-> Created by **Caleb DeLeeuw** at **[Misfits & Machines](https://github.com/marketingarchitects)**
+> Created by **Caleb DeLeeuw** at **[Misfits & Machines](https://github.com/marketingarchitects)**, with input from Jonathan, Jordan, Noah, and JR
 >
 > Inspired by [Hodoscope](https://github.com/AR-FORUM/hodoscope) — unsupervised trajectory analysis for AI agents
 
@@ -193,7 +193,7 @@ hodoscope-pr-tracker/
 <p align="center">
   <img src="https://github.com/user-attachments/assets/aa6a1ce7-d4a1-45ad-8f4f-73d9d82e2f7d" width="48">
   <br>
-  <strong>Built by <a href="https://github.com/CalebDeLeeuwMisfits">Caleb DeLeeuw</a> at <a href="https://github.com/marketingarchitects">Misfits & Machines</a></strong>
+  <strong>Built by <a href="https://github.com/CalebDeLeeuwMisfits">Caleb DeLeeuw</a> at <a href="https://github.com/marketingarchitects">Misfits & Machines</a>, with input from Jonathan, Jordan, Noah, and JR</strong>
 </p>
 
 ## License
